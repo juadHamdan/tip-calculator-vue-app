@@ -1,4 +1,4 @@
-### https://codesandbox.io/s/tip-calculator-app-vue-ukqxuw?file=/src/components/TipCalc.vue
+### https://codesandbox.io/s/github/juadHamdan/tip-calculator-vue-app
 		
 ![image](https://user-images.githubusercontent.com/64545813/170888066-63c74995-fd02-4b80-b665-40c913791634.png)
 		
